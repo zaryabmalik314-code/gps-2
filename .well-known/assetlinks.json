@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "app.netlify.beautiful_palmier_7f5477.twa",
-        "sha256_cert_fingerprints": ["35:D1:C7:31:7E:0C:77:54:E6:0B:DA:4A:CE:4E:82:DA:5E:84:B0:E0:55:1E:69:1D:7A:89:C7:D9:1B:E6:EC:52"]
+        "package_name": "app.netlify.dynamic_florentine_f8fc2e.twa",
+        "sha256_cert_fingerprints": ["DF:5C:51:05:C5:D6:A5:0D:B2:AD:54:CB:6E:7A:72:2B:E4:2F:21:29:C1:D6:83:9E:86:13:49:3F:C2:84:18:07"]
       }
     }]
