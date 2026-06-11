@@ -4,13 +4,13 @@
   "display": "standalone",
   "name": "LGU Attendance",
   "orientation": "any",
-"scope": "/GPS-based-attendance-system2/",
+"scope": "/",
   "short_name": "LGU Attendance",
-"start_url": "/GPS-based-attendance-system2/",
+"start_url": "/",
   "theme_color": "#0f2860",
   "icons": [
     {
-      "src": "https://zaryabmalik314-code.github.io/GPS-based-attendance-system2/logo.png",
+     "src": "/logo.png",
       "type": "image/png",
       "sizes": "512x512",
       "isSquare": true,
