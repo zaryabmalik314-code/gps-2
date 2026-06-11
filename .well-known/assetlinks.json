@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.netlify.beautiful_palmier_7f5477.twa",
-        "sha256_cert_fingerprints": ["1C:0E:5A:B8:F8:D2:4A:F4:EA:E9:83:BA:B1:E7:BA:1B:42:2D:DC:3D:19:A8:28:A2:5B:9F:1C:FC:C3:1A:75:66"]
-      }
-    }]
